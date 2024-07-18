@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+  }
+  
+  #tools {
+    margin-top: 10px;
+  }
+  
+  #tools button {
+    margin-right: 10px;
+  }
+  
+  canvas {
+    border: 1px solid #000;
+  }
+  
